@@ -6,6 +6,9 @@ In this Angular Tutorial we explain one by one the main building blocks of an An
 
 Get the step by step free tutorial in https://angular-templates.io/tutorials/about/learn-angular-from-scratch-step-by-step
 
+**Please support this project by simply putting a Github star ⭐. Share this library with friends on Twitter and everywhere else you can. 🙏**
+
+
 ## Installation
 
 Run `npm install` to install all the required dependencies
